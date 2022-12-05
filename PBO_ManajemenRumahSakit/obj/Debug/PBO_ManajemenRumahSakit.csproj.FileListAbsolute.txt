@@ -1,0 +1,100 @@
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.exe.config
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.exe
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.pdb
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Login.resources
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Properties.Resources.resources
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.exe
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.pdb
+C:\Users\user\source\repos\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Home.resources
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.exe.config
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.exe
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.pdb
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\Npgsql.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Buffers.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Collections.Immutable.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Memory.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Json.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Channels.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.ValueTuple.dll
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\Npgsql.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Buffers.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Collections.Immutable.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Memory.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Json.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Channels.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\bin\Debug\System.ValueTuple.xml
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.AssemblyReference.cache
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Home.resources
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Login.resources
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Properties.Resources.resources
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.GenerateResource.cache
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.CoreCompileInputs.cache
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.CopyComplete
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.exe
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.pdb
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Kamar.resources
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Dokter.resources
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Regis.resources
+D:\Kuliah\Materi Kuliah\SEMESTER 2\4. PEMROGRAMAN BERORIENTASI OBJEK\Projek\PBOOOOOOO\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Pasien.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.exe.config
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.exe
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\PBO_ManajemenRumahSakit.pdb
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\Npgsql.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Buffers.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Collections.Immutable.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Memory.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Numerics.Vectors.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Encodings.Web.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Json.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Channels.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.ValueTuple.dll
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\Npgsql.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Buffers.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Collections.Immutable.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Memory.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Numerics.Vectors.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Encodings.Web.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Text.Json.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Channels.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\bin\Debug\System.ValueTuple.xml
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.AssemblyReference.cache
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.SuggestedBindingRedirects.cache
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Dokter.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Home.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Kamar.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Login.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Pasien.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Regis.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.Properties.Resources.resources
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.GenerateResource.cache
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.CoreCompileInputs.cache
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.csproj.CopyComplete
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.exe
+D:\MATERI KULIAH\PBO_ManajemenRumahSakit\PBO_ManajemenRumahSakit\obj\Debug\PBO_ManajemenRumahSakit.pdb
